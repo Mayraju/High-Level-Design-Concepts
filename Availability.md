@@ -12,7 +12,7 @@ Availability means system needs to up on everytime and accessible.
             1. Uptime: The period during which a system is functional and accessible.
             2. Downtime: The Period during which a system is unavailable due to failures, maintenance, or other issues.
 
-## Availbility Tiers:
+## Availability Tiers:
 
         Availability is often expressed in "nines". The higher the availablity, the less downtime there is.
 
@@ -28,7 +28,7 @@ Availability means system needs to up on everytime and accessible.
 
       Each additional "nine" represents an order of magnitude improvement in availabilty.
 
-### Stategies for Improving Availability
+### Strategies for Improving Availability
 
 
     
